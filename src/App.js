@@ -1,5 +1,5 @@
 import SearchIcon from '@mui/icons-material/Search'
-import './app.css'
+import './App.css'
 import { useState, useEffect } from 'react'
 import hash from './data.js'
 
